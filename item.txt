@@ -1,4 +1,9 @@
 show
 tv
 washing mechine
+laptop
+Desktop
+HP
+DELL
+Calculator
 
